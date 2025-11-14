@@ -1,4 +1,4 @@
-Membros e suas funcionalidades:
+Membros e suas funcionalidades:@
 Gabriela(M1) - Responsável por gerenciar a linha principal;
 Clara.T(M2) - Responsável por fazer commits relacionados ao arquivo de funcionalidades
 Luna.C(M3) - Responsável por fazer commits relacionados ao arquivo de tecnologias
