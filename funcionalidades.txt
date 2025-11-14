@@ -1,1 +1,3 @@
-
+Adicionar e deletar contato
+Pesquisar contato
+Mostrar a lista
